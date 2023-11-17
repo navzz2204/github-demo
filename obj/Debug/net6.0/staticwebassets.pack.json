@@ -1,0 +1,877 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToyStoreOnlineWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ToyStoreOnlineWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\PagedList.css",
+      "PackagePath": "staticwebassets\\Content\\PagedList.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\Site.css",
+      "PackagePath": "staticwebassets\\Content\\Site.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\Spin.css",
+      "PackagePath": "staticwebassets\\Content\\Spin.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\Content\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\Winwheel.js",
+      "PackagePath": "staticwebassets\\Content\\Winwheel.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\chatbox.css",
+      "PackagePath": "staticwebassets\\Content\\chatbox.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\chatbox.js",
+      "PackagePath": "staticwebassets\\Content\\chatbox.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\basictable.css",
+      "PackagePath": "staticwebassets\\Content\\css\\basictable.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\jqcandlestick.css",
+      "PackagePath": "staticwebassets\\Content\\css\\jqcandlestick.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Content\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Content\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\monthly.css",
+      "PackagePath": "staticwebassets\\Content\\css\\monthly.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\morris.css",
+      "PackagePath": "staticwebassets\\Content\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\css\\table-style.css",
+      "PackagePath": "staticwebassets\\Content\\css\\table-style.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Content\\home\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\home\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\Content\\home\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\css\\flexslider1.css",
+      "PackagePath": "staticwebassets\\Content\\home\\css\\flexslider1.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Content\\home\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\home\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Content\\home\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\home\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\ankhuong.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\ankhuong.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\b1.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\b1.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\b2.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\b2.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\b3.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\b3.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g10.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g11.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g12.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\into.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\into.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\move-up.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\move-up.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\social-icons.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\social-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\star.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\star1.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\t1.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\t1.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\t2.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\t2.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\t3.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\t3.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\t4.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\t4.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\images\\tick.png",
+      "PackagePath": "staticwebassets\\Content\\home\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\easing.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\jquery.jscrollpane.min.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\jquery.jscrollpane.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\jquery.mousewheel.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\jquery.mousewheel.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\main.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\simpleCart.min.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\simpleCart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\uisearch.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\uisearch.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\home\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Content\\home\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\363326428_673505241349316_3880742709039873721_n_e9ca.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\363326428_673505241349316_3880742709039873721_n_e9ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\363370133_673505334682640_577804794273563206_n_27ae.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\363370133_673505334682640_577804794273563206_n_27ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\Screenshot 2023-10-25 072947_ca7d.png",
+      "PackagePath": "staticwebassets\\Content\\images\\Screenshot 2023-10-25 072947_ca7d.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\Screenshot 2023-10-25 073006_83c0.png",
+      "PackagePath": "staticwebassets\\Content\\images\\Screenshot 2023-10-25 073006_83c0.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\anyconv.com__vt33692-blu-1.jpeg",
+      "PackagePath": "staticwebassets\\Content\\images\\anyconv.com__vt33692-blu-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\anyconv.com__vt33692-blu-1_771f.jpeg",
+      "PackagePath": "staticwebassets\\Content\\images\\anyconv.com__vt33692-blu-1_771f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\dw8443_1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\dw8443_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\dw8443_2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\dw8443_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\dw8443_3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\dw8443_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\icon.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\johnny-dang.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\johnny-dang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\loading-send.gif",
+      "PackagePath": "staticwebassets\\Content\\images\\loading-send.gif"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\q1tfsizmmf961.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\q1tfsizmmf961.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\spin_off.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spin_off.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\spin_on.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spin_on.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\user.png",
+      "PackagePath": "staticwebassets\\Content\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_1_.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_1_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_1__87af.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_1__87af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_1__dad1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_1__dad1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_2_.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_2_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_3_.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_3_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_3__177c.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_3__177c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_3__177c_7dae.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_3__177c_7dae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt1918-gr_3__1aaf.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt1918-gr_3__1aaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt26a02_4__1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt26a02_4__1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt26a02_6__1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt26a02_6__1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt26a02_6__1_cfd7.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt26a02_6__1_cfd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt26a02blu-tiki-bh.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt26a02blu-tiki-bh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt26a02blu-tiki-bh_2bf1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt26a02blu-tiki-bh_2bf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu-tiki-bh.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu-tiki-bh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu-tiki-bh_3c6c.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu-tiki-bh_3c6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu-tiki-bh_4418.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu-tiki-bh_4418.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu-tiki-bh_91c2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu-tiki-bh_91c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu-tiki-bh_9844.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu-tiki-bh_9844.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu_2_.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu_2_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu_2__2127.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu_2__2127.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\vt33692-blu_2__2886.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\vt33692-blu_2__2886.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\images\\wheel_back.png",
+      "PackagePath": "staticwebassets\\Content\\images\\wheel_back.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\Content\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\jquery.basictable.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.basictable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\jquery.jqcandlestick.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.jqcandlestick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\monthly.js",
+      "PackagePath": "staticwebassets\\Content\\js\\monthly.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\morris.js",
+      "PackagePath": "staticwebassets\\Content\\js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\raphael-min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Content\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\notify.min.js",
+      "PackagePath": "staticwebassets\\Content\\notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sound\\tick.mp3",
+      "PackagePath": "staticwebassets\\Content\\sound\\tick.mp3"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\bootstrap-sweetalert.png",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\bootstrap-sweetalert.png"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\docs.css",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\docs.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\sweet-alert-animations.less",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\sweet-alert-animations.less"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\sweet-alert-combine.less",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\sweet-alert-combine.less"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\sweet-alert.css",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\sweet-alert.css"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\sweet-alert.less",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\sweet-alert.less"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Content\\sweetalert\\thumbs-up.jpg",
+      "PackagePath": "staticwebassets\\Content\\sweetalert\\thumbs-up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootbox.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootbox.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.intellisense.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.intellisense.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.min.map",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.slim.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.slim.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery-3.7.1.slim.min.map",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.signalR-2.4.3.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.signalR-2.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.signalR-2.4.3.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.signalR-2.4.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.validate-vsdoc.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate-vsdoc.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\Scripts\\modernizr-2.8.3.js",
+      "PackagePath": "staticwebassets\\Scripts\\modernizr-2.8.3.js"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MY MSI\\OneDrive\\Desktop\\codecs\\ToyStoreOnlineWeb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ToyStoreOnlineWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ToyStoreOnlineWeb.props",
+      "PackagePath": "build\\ToyStoreOnlineWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ToyStoreOnlineWeb.props",
+      "PackagePath": "buildMultiTargeting\\ToyStoreOnlineWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ToyStoreOnlineWeb.props",
+      "PackagePath": "buildTransitive\\ToyStoreOnlineWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

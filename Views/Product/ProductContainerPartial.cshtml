@@ -1,0 +1,28 @@
+﻿@model X.PagedList.IPagedList<ToyStoreOnlineWeb.Models.Product>
+@using X.PagedList.Mvc.Core;
+@{
+    int counter = 1;
+}
+
+<div class="clearfix"></div>
+<br />
+<div id='Paging' style="text-align: right">
+    @Html.PagedListPager(Model, page => Url.Action("FilterProductList", new { type = ViewBag.Type, ID = ViewBag.ID, min = ViewBag.Min, max = ViewBag.Max, page }))
+</div>
+
+<div id="ProductContainer">
+    <!-- Nội dung sản phẩm được tải ở đây -->
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#Paging a').on('click', function (e) {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                $('#ProductContainer').load(url);
+            });
+        });
+    </script>
+}

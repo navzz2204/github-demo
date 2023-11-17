@@ -1,0 +1,327 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\css\**" />
+    <Compile Remove="wwwroot\dist\**" />
+    <Compile Remove="wwwroot\js\**" />
+    <Compile Remove="wwwroot\lib\**" />
+    <Compile Remove="wwwroot\plugins\**" />
+    <Content Remove="wwwroot\css\**" />
+    <Content Remove="wwwroot\dist\**" />
+    <Content Remove="wwwroot\js\**" />
+    <Content Remove="wwwroot\lib\**" />
+    <Content Remove="wwwroot\plugins\**" />
+    <EmbeddedResource Remove="wwwroot\css\**" />
+    <EmbeddedResource Remove="wwwroot\dist\**" />
+    <EmbeddedResource Remove="wwwroot\js\**" />
+    <EmbeddedResource Remove="wwwroot\lib\**" />
+    <EmbeddedResource Remove="wwwroot\plugins\**" />
+    <None Remove="wwwroot\css\**" />
+    <None Remove="wwwroot\dist\**" />
+    <None Remove="wwwroot\js\**" />
+    <None Remove="wwwroot\lib\**" />
+    <None Remove="wwwroot\plugins\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.bundle.js" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.bundle.js.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.bundle.min.js" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.bundle.min.js.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.esm.js" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.esm.js.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.esm.min.js" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.esm.min.js.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.js" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.js.map" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.min.js" />
+    <Content Remove="C:\Users\MY MSI\.nuget\packages\bootstrap\5.3.2\contentFiles\any\any\wwwroot\js\bootstrap.min.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Antlr" Version="3.5.0.2" />
+    <PackageReference Include="AspNetCoreHero.ToastNotification" Version="1.1.0" />
+    <PackageReference Include="bootbox" Version="4.3.0" />
+    <PackageReference Include="bootstrap" Version="5.3.2" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="jQuery" Version="3.7.1" />
+    <PackageReference Include="jQuery.Validation" Version="1.19.5" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.3.0" />
+    <PackageReference Include="Microsoft.AspNet.SignalR.Core" Version="2.4.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.24">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Validation" Version="4.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="Microsoft.Web.Infrastructure" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="PagedList.Core.Mvc" Version="3.0.0" />
+    <PackageReference Include="SqlTableDependency" Version="8.5.8" />
+    <PackageReference Include="SweetAlert" Version="1.0.0" />
+    <PackageReference Include="System.Buffers" Version="4.5.1" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+    <PackageReference Include="System.Data.Common" Version="4.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <PackageReference Include="System.IO" Version="4.3.0" />
+    <PackageReference Include="System.IO.FileSystem.Primitives" Version="4.3.0" />
+    <PackageReference Include="System.IO.Packaging" Version="7.0.0" />
+    <PackageReference Include="System.Memory" Version="4.5.5" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+    <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.0.0" />
+    <PackageReference Include="WebGrease" Version="1.6.0" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.4.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="App_Start\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\bootstrap-grid.css" />
+    <None Include="wwwroot\Content\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Content\bootstrap-grid.min.css" />
+    <None Include="wwwroot\Content\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-grid.rtl.css" />
+    <None Include="wwwroot\Content\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\Content\bootstrap-grid.rtl.min.css" />
+    <None Include="wwwroot\Content\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-reboot.css" />
+    <None Include="wwwroot\Content\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Content\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\Content\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-reboot.rtl.css" />
+    <None Include="wwwroot\Content\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\Content\bootstrap-reboot.rtl.min.css" />
+    <None Include="wwwroot\Content\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-utilities.css" />
+    <None Include="wwwroot\Content\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\Content\bootstrap-utilities.min.css" />
+    <None Include="wwwroot\Content\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap-utilities.rtl.css" />
+    <None Include="wwwroot\Content\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\Content\bootstrap-utilities.rtl.min.css" />
+    <None Include="wwwroot\Content\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap.css" />
+    <None Include="wwwroot\Content\bootstrap.css.map" />
+    <None Include="wwwroot\Content\bootstrap.min.css" />
+    <None Include="wwwroot\Content\bootstrap.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap.rtl.css" />
+    <None Include="wwwroot\Content\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\Content\bootstrap.rtl.min.css" />
+    <None Include="wwwroot\Content\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\Content\chatbox.css" />
+    <None Include="wwwroot\Content\chatbox.js" />
+    <None Include="wwwroot\Content\css\basictable.css" />
+    <None Include="wwwroot\Content\css\bootstrap.min.css" />
+    <None Include="wwwroot\Content\css\font-awesome.css" />
+    <None Include="wwwroot\Content\css\icon-font.min.css" />
+    <None Include="wwwroot\Content\css\jqcandlestick.css" />
+    <None Include="wwwroot\Content\css\jquery-ui.css" />
+    <None Include="wwwroot\Content\css\lightbox.css" />
+    <None Include="wwwroot\Content\css\monthly.css" />
+    <None Include="wwwroot\Content\css\morris.css" />
+    <None Include="wwwroot\Content\css\style.css" />
+    <None Include="wwwroot\Content\css\table-style.css" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\Content\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\Content\home\css\animate.min.css" />
+    <None Include="wwwroot\Content\home\css\bootstrap.css" />
+    <None Include="wwwroot\Content\home\css\flexslider.css" />
+    <None Include="wwwroot\Content\home\css\flexslider1.css" />
+    <None Include="wwwroot\Content\home\css\jquery-ui.css" />
+    <None Include="wwwroot\Content\home\css\style.css" />
+    <None Include="wwwroot\Content\home\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\Content\home\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\Content\home\images\1.jpg" />
+    <None Include="wwwroot\Content\home\images\ankhuong.png" />
+    <None Include="wwwroot\Content\home\images\b1.png" />
+    <None Include="wwwroot\Content\home\images\b2.png" />
+    <None Include="wwwroot\Content\home\images\b3.png" />
+    <None Include="wwwroot\Content\home\images\g1.jpg" />
+    <None Include="wwwroot\Content\home\images\g10.jpg" />
+    <None Include="wwwroot\Content\home\images\g11.jpg" />
+    <None Include="wwwroot\Content\home\images\g12.jpg" />
+    <None Include="wwwroot\Content\home\images\g2.jpg" />
+    <None Include="wwwroot\Content\home\images\g3.jpg" />
+    <None Include="wwwroot\Content\home\images\g4.jpg" />
+    <None Include="wwwroot\Content\home\images\g5.jpg" />
+    <None Include="wwwroot\Content\home\images\g6.jpg" />
+    <None Include="wwwroot\Content\home\images\g7.jpg" />
+    <None Include="wwwroot\Content\home\images\g8.jpg" />
+    <None Include="wwwroot\Content\home\images\g9.jpg" />
+    <None Include="wwwroot\Content\home\images\img1.jpg" />
+    <None Include="wwwroot\Content\home\images\img2.jpg" />
+    <None Include="wwwroot\Content\home\images\img3.jpg" />
+    <None Include="wwwroot\Content\home\images\into.png" />
+    <None Include="wwwroot\Content\home\images\move-up.png" />
+    <None Include="wwwroot\Content\home\images\s1.jpg" />
+    <None Include="wwwroot\Content\home\images\s2.jpg" />
+    <None Include="wwwroot\Content\home\images\s3.jpg" />
+    <None Include="wwwroot\Content\home\images\social-icons.png" />
+    <None Include="wwwroot\Content\home\images\star.png" />
+    <None Include="wwwroot\Content\home\images\star1.png" />
+    <None Include="wwwroot\Content\home\images\t1.png" />
+    <None Include="wwwroot\Content\home\images\t2.png" />
+    <None Include="wwwroot\Content\home\images\t3.png" />
+    <None Include="wwwroot\Content\home\images\t4.png" />
+    <None Include="wwwroot\Content\home\images\tick.png" />
+    <None Include="wwwroot\Content\home\js\bootstrap.js" />
+    <None Include="wwwroot\Content\home\js\easing.js" />
+    <None Include="wwwroot\Content\home\js\imagezoom.js" />
+    <None Include="wwwroot\Content\home\js\jquery-1.11.1.min.js" />
+    <None Include="wwwroot\Content\home\js\jquery-ui.js" />
+    <None Include="wwwroot\Content\home\js\jquery.countdown.min.js" />
+    <None Include="wwwroot\Content\home\js\jquery.flexslider.js" />
+    <None Include="wwwroot\Content\home\js\jquery.jscrollpane.min.js" />
+    <None Include="wwwroot\Content\home\js\jquery.mousewheel.js" />
+    <None Include="wwwroot\Content\home\js\main.js" />
+    <None Include="wwwroot\Content\home\js\modernizr.custom.js" />
+    <None Include="wwwroot\Content\home\js\move-top.js" />
+    <None Include="wwwroot\Content\home\js\simpleCart.min.js" />
+    <None Include="wwwroot\Content\home\js\uisearch.js" />
+    <None Include="wwwroot\Content\home\js\wow.min.js" />
+    <None Include="wwwroot\Content\images\1.jpg" />
+    <None Include="wwwroot\Content\images\363326428_673505241349316_3880742709039873721_n_e9ca.jpg" />
+    <None Include="wwwroot\Content\images\363370133_673505334682640_577804794273563206_n_27ae.jpg" />
+    <None Include="wwwroot\Content\images\admin.jpg" />
+    <None Include="wwwroot\Content\images\anyconv.com__vt33692-blu-1.jpeg" />
+    <None Include="wwwroot\Content\images\dw8443_1.jpg" />
+    <None Include="wwwroot\Content\images\dw8443_2.jpg" />
+    <None Include="wwwroot\Content\images\dw8443_3.jpg" />
+    <None Include="wwwroot\Content\images\icon.jpg" />
+    <None Include="wwwroot\Content\images\johnny-dang.jpg" />
+    <None Include="wwwroot\Content\images\loading-send.gif" />
+    <None Include="wwwroot\Content\images\q1tfsizmmf961.jpg" />
+    <None Include="wwwroot\Content\images\Screenshot 2023-10-25 072947_ca7d.png" />
+    <None Include="wwwroot\Content\images\Screenshot 2023-10-25 073006_83c0.png" />
+    <None Include="wwwroot\Content\images\spin_off.png" />
+    <None Include="wwwroot\Content\images\spin_on.png" />
+    <None Include="wwwroot\Content\images\user.png" />
+    <None Include="wwwroot\Content\images\vt1918-gr_1_.jpg" />
+    <None Include="wwwroot\Content\images\vt1918-gr_2_.jpg" />
+    <None Include="wwwroot\Content\images\vt1918-gr_3_.jpg" />
+    <None Include="wwwroot\Content\images\vt26a02blu-tiki-bh.jpg" />
+    <None Include="wwwroot\Content\images\vt26a02_4__1.jpg" />
+    <None Include="wwwroot\Content\images\vt26a02_6__1.jpg" />
+    <None Include="wwwroot\Content\images\vt33692-blu-tiki-bh.jpg" />
+    <None Include="wwwroot\Content\images\vt33692-blu_2_.jpg" />
+    <None Include="wwwroot\Content\images\wheel_back.png" />
+    <None Include="wwwroot\Content\js\bootstrap.min.js" />
+    <None Include="wwwroot\Content\js\Chart.js" />
+    <None Include="wwwroot\Content\js\jquery-2.1.4.min.js" />
+    <None Include="wwwroot\Content\js\jquery-ui.js" />
+    <None Include="wwwroot\Content\js\jquery.basictable.min.js" />
+    <None Include="wwwroot\Content\js\jquery.jqcandlestick.min.js" />
+    <None Include="wwwroot\Content\js\jquery.nicescroll.js" />
+    <None Include="wwwroot\Content\js\lightbox-plus-jquery.min.js" />
+    <None Include="wwwroot\Content\js\monthly.js" />
+    <None Include="wwwroot\Content\js\morris.js" />
+    <None Include="wwwroot\Content\js\raphael-min.js" />
+    <None Include="wwwroot\Content\js\scripts.js" />
+    <None Include="wwwroot\Content\notify.min.js" />
+    <None Include="wwwroot\Content\PagedList.css" />
+    <None Include="wwwroot\Content\Site.css" />
+    <None Include="wwwroot\Content\sound\tick.mp3" />
+    <None Include="wwwroot\Content\Spin.css" />
+    <None Include="wwwroot\Content\sweetalert\bootstrap-sweetalert.png" />
+    <None Include="wwwroot\Content\sweetalert\docs.css" />
+    <None Include="wwwroot\Content\sweetalert\sweet-alert-animations.less" />
+    <None Include="wwwroot\Content\sweetalert\sweet-alert-combine.less" />
+    <None Include="wwwroot\Content\sweetalert\sweet-alert.css" />
+    <None Include="wwwroot\Content\sweetalert\sweet-alert.less" />
+    <None Include="wwwroot\Content\sweetalert\thumbs-up.jpg" />
+    <None Include="wwwroot\Content\TweenMax.min.js" />
+    <None Include="wwwroot\Content\Winwheel.js" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\Scripts\bootbox.js" />
+    <None Include="wwwroot\Scripts\bootbox.min.js" />
+    <None Include="wwwroot\Scripts\bootstrap.bundle.js" />
+    <None Include="wwwroot\Scripts\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\Scripts\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\Scripts\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\Scripts\bootstrap.esm.js" />
+    <None Include="wwwroot\Scripts\bootstrap.esm.js.map" />
+    <None Include="wwwroot\Scripts\bootstrap.esm.min.js" />
+    <None Include="wwwroot\Scripts\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\Scripts\bootstrap.js" />
+    <None Include="wwwroot\Scripts\bootstrap.js.map" />
+    <None Include="wwwroot\Scripts\bootstrap.min.js" />
+    <None Include="wwwroot\Scripts\bootstrap.min.js.map" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.intellisense.js" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.js" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.min.js" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.min.map" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.slim.js" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.slim.min.js" />
+    <None Include="wwwroot\Scripts\jquery-3.7.1.slim.min.map" />
+    <None Include="wwwroot\Scripts\jquery.signalR-2.4.3.js" />
+    <None Include="wwwroot\Scripts\jquery.signalR-2.4.3.min.js" />
+    <None Include="wwwroot\Scripts\jquery.unobtrusive-ajax.js" />
+    <None Include="wwwroot\Scripts\jquery.unobtrusive-ajax.min.js" />
+    <None Include="wwwroot\Scripts\jquery.validate-vsdoc.js" />
+    <None Include="wwwroot\Scripts\jquery.validate.js" />
+    <None Include="wwwroot\Scripts\jquery.validate.min.js" />
+    <None Include="wwwroot\Scripts\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\Scripts\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\Scripts\modernizr-2.8.3.js" />
+  </ItemGroup>
+
+</Project>
